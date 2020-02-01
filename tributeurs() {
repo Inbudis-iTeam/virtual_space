@@ -1,0 +1,7 @@
+[33m94c6dc2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m Mise à jour des migrations, création de la migration Fichier. Création des modèles (classes), définition des relations.
+[33m36be369[m Configuration de la base donnée dans le fichier .env et création des migrations.
+[33m8067b73[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Configuration de base terminée, le projet a bel et bien commencé.
+[33mac5dca4[m Greffe du module phpmailer
+[33m08c508f[m Installation du module Bootstrap V 4.4.1
+[33m1afb39c[m Initialisation du projet Laravel.
+[33m5d6bb8e[m Initial commit
