@@ -64,6 +64,7 @@
         </style>
     </head>
     <body>
+		<h2>TEST - TEST sd</h2>
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
                 <div class="top-right links">
